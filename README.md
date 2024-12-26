@@ -61,7 +61,7 @@ Presently, I am advancing my expertise in web and app development as a trainee u
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="anik-paul-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&show_icons=true&locale=en&layout=compact" alt="anik-paul-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&theme=radical&locale=en" alt="anik-paul-dev" /></p>
 
