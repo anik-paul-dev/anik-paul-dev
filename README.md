@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover2.gif" alt="MasterHead" style="width:100%; height:auto;"> </p>
+<p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover2.gif" alt="MasterHead" style="width:100%; height:200px;"> </p>
 
 <h1 align="center">Hi, I'm Anik😊</h1>
 <h3 align="center">Tech Enthusiast | Aspiring Web & App developer | Exploring Full-Stack</h3>
@@ -61,11 +61,11 @@ Presently, I am advancing my expertise in web and app development as a trainee u
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&show_icons=true&locale=en&layout=compact" alt="anik-paul-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="anik-paul-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&locale=en" alt="anik-paul-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&theme=radical&locale=en" alt="anik-paul-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&" alt="anik-paul-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&theme=aura" alt="anik-paul-dev" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev" alt="anik-paul-dev" /></a> </p>
 
