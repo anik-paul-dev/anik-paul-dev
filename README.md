@@ -69,6 +69,4 @@ Presently, I am advancing my expertise in web and app development as a trainee u
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev" alt="anik-paul-dev" /></a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/anik-paul-dev)  
-
 
