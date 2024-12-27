@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Anik😊</h1>
 <h3 align="center">Tech Enthusiast | Aspiring Web & App developer | Exploring Full-Stack</h3>
-<h5 align="left">I am a final-year undergraduate student currently focused on completing my thesis paper. I have gained practical experience in Android app development through an internship at Stamasoft Technology and possess 2 years of web development experience acquired through self-learning.
+<h6 align="left">I am a final-year undergraduate student currently focused on completing my thesis paper. I have gained practical experience in Android app development through an internship at Stamasoft Technology and possess 2 years of web development experience acquired through self-learning.
 
-Presently, I am advancing my expertise in web and app development as a trainee under the FutureNation platform by the United Nations Development Programme (UNDP) and the EDGE Project by the Bangladesh Computer Council, ICT Division.</h5>
+Presently, I am advancing my expertise in web and app development as a trainee under the FutureNation platform by the United Nations Development Programme (UNDP) and the EDGE Project by the Bangladesh Computer Council, ICT Division.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-paul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anik-paul-dev" /> </p>
 
