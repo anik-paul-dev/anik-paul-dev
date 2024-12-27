@@ -63,10 +63,6 @@ Presently, I am advancing my expertise in web and app development as a trainee u
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&show_icons=true&locale=en&layout=compact" alt="anik-paul-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&theme=radical&locale=en" alt="anik-paul-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&locale=en" alt="anik-paul-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&theme=aura" alt="anik-paul-dev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev" alt="anik-paul-dev" /></a> </p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&" alt="anik-paul-dev" /></p>
