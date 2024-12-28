@@ -61,11 +61,19 @@ Presently, I am advancing my expertise in web and app development as a trainee u
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=anik-paul-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-paul-dev&layout=compact" alt="anik-paul-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&locale=en" alt="anik-paul-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&" alt="anik-paul-dev" /></p>
+--->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev" alt="anik-paul-dev" /></a> </p>
 
