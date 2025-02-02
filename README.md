@@ -77,5 +77,5 @@ Presently, I am advancing my expertise in web and app development as a trainee u
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&" alt="anik-paul-dev" /></p>
 --->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev" alt="anik-paul-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev&theme=dracula" alt="anik-paul-dev" /></a> </p>
 
