@@ -23,9 +23,7 @@ Ex-Intern at Stamasoft Technology | Freelance Web & App Developer</h6>
 - 💬 Ask me about **Web and mobile app development.**
 
 - 📫 How to reach me **anikpaul.dev24@gmail.com**
-- 🌐 Visit My Personal Blog Website **https://mynotebook-mu.vercel.app**
-
-- 📄 Know about my experiences [anik-paul-18dev](anik-paul-18dev)
+- 🌐 Visit My Personal Blog Website and explore to know about my experiences **https://mynotebook-mu.vercel.app**
 
 - ⚡ Fun fact **love traveling, enjoy literature with a cup of tea, find inspiration from movies!**
 
