@@ -2,27 +2,28 @@
 
 <h1 align="center">Hi, I'm Anik😊</h1>
 <h3 align="center">Tech Enthusiast | Junior Software Developer (App and Web) | Exploring Full-Stack</h3>
-<h6 align="left">I am a final-year undergraduate student currently focused on completing my thesis paper. I have gained practical experience in Android app development through an internship at Stamasoft Technology and possess 3 years of web development experience acquired through self-learning.
+<h6 align="left">I am currently looking for a job in Software Development field. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.
 
-Presently, I am advancing my expertise in web and app development as a trainee under the FutureNation platform by the United Nations Development Programme (UNDP) and the EDGE Project by the Bangladesh Computer Council, ICT Division.</h6>
+Ex-Intern at Stamasoft Technology | Freelance Web & App Developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-paul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anik-paul-dev" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover3.gif">
 
-- 🔭 I’m currently working on **My thesis and enhancing app/web development skills.**
+- 🔭 I’m currently working on **enhancing App/Web development skills.**
 
-- 🌱 I’m currently learning **Flutter, Express.js, MongoDB, and Firebase.**
+- 🌱 I’m currently learning **Flutter, Spring Boot, Next.js**
 
 - 👯 I’m looking to collaborate on **Web and mobile development projects.**
 
-- 🤝 I’m looking for help with **Firebase, MongoDB, and Flutter.**
+- 🤝 I’m looking for help with **Spring Boot, Next.js.**
 
 - 👨‍💻 All of my projects are available at [anik-paul-dev](anik-paul-dev)
 
 - 💬 Ask me about **Web and mobile app development.**
 
 - 📫 How to reach me **anikpaul.dev24@gmail.com**
+- 🌐 Visit My Personal Blog Website **https://mynotebook-mu.vercel.app**
 
 - 📄 Know about my experiences [anik-paul-18dev](anik-paul-18dev)
 
