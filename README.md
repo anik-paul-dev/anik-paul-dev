@@ -1,10 +1,10 @@
 <p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover.png" alt="MasterHead" style="width:100%; height:auto;"> </p>
 
 <h1 align="center">Hi, I'm Anik😊</h1>
-<h3 align="center">Tech Enthusiast | Junior Software Developer (App and Web) | Exploring Full-Stack</h3>
-<h6 align="left">I am currently looking for a job in Software Development field. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.
+<h3 align="center"> Research Assitant | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</h3>
+<h6 align="left">I am currently looking for a job in Software Development field. Also, assisted postgraduate students and teachers with experiments, implementation, and analysis for thesis-related research. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.
 
-Ex-Intern at Stamasoft Technology | Freelance Web & App Developer</h6>
+Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent Researcher / Self-Employed </h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-paul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anik-paul-dev" /> </p>
 
