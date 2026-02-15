@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover.png" alt="MasterHead" style="width:100%; height:auto;"> </p>
 
 <h1 align="center">Hi, I'm Anik😊</h1>
-<h3 align="center"> Research Assistant | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</h3>
+<h3 align="center"> Research Assistant(ML) | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</h3>
 <h6 align="left">I am currently looking for a job in Software Development field. Also, assisted postgraduate students and teachers with experiments, implementation, and analysis for thesis-related research. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.
 
 Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent Researcher / Self-Employed </h6>
@@ -10,17 +10,17 @@ Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover3.gif">
 
-- 🔭 I’m currently working on **enhancing App/Web development skills.**
+- 🔭 I’m currently working on ** Research Assistant(ML)| Enhancing App/Web development skills.**
 
-- 🌱 I’m currently learning **Flutter, Spring Boot, Next.js**
+- 🌱 I’m currently learning **Spring Boot, Next.js, PostgreeSql**
 
 - 👯 I’m looking to collaborate on **Web and mobile development projects.**
 
-- 🤝 I’m looking for help with **Spring Boot, Next.js.**
+- 🤝 I’m looking for help with **Spring Boot, PostgreeSql**
 
 - 👨‍💻 All of my projects are available at [anik-paul-dev](anik-paul-dev)
 
-- 💬 Ask me about **Web and mobile app development.**
+- 💬 Ask me about ML Research, Web and mobile App development.**
 
 - 📫 How to reach me **anikpaul.dev24@gmail.com**
 - 🌐 Visit My Personal Blog Website and explore to know about my experiences **https://mynotebook-mu.vercel.app**
