@@ -1,30 +1,31 @@
-<div align="center">
-  <img height="250" width="100%" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover.png"  />
-</div>
+<p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover.png" alt="MasterHead" style="width:100%; height:auto;"> </p>
 
-###
+<h1 align="center">Hi, I'm Anik😊</h1>
+<h3 align="center"> Research Assistant(ML) | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</h3>
+<h6 align="left">I am currently looking for a job in Software Development field. Also, assisted postgraduate students and teachers with experiments, implementation, and analysis for thesis-related research. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.
 
-<h2 align="center">Hi, I'm Anik😊</h2>
+Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent Researcher / Self-Employed </h6>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-paul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anik-paul-dev" /> </p>
 
-<p align="center">Research Assistant(ML) | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</p>
+<img align="right" alt="Coding" height="300" width="400" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover2.gif">
 
-###
+- 🔭 I’m currently working on ** Research Assistant(ML)| Enhancing App/Web development skills.**
 
-<p align="left">I am currently looking for a job in Software Development field. Also, assisted postgraduate students and teachers with experiments, implementation, and analysis for thesis-related research. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.<br>Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent Researcher / Self-Employed</p>
+- 🌱 I’m currently learning **Spring Boot, Next.js, PostgreeSql**
 
-###
+- 👯 I’m looking to collaborate on **Web and mobile development projects.**
 
-<br clear="both">
+- 🤝 I’m looking for help with **Spring Boot, PostgreeSql**
 
-<img align="right" height="430" width="50%" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover2.gif"  />
+- 👨‍💻 All of my projects are available at [anik-paul-dev](anik-paul-dev)
 
-###
+- 💬 Ask me about ML Research, Web and mobile App development.**
 
-<p align="left">🔭 I’m currently working on ** Research Assistant(ML)| Enhancing App/Web development skills.**<br><br>🌱 I’m currently learning Spring Boot, Next.js, PostgreeSql<br><br>👯 I’m looking to collaborate on Web and mobile development projects.<br><br>🤝 I’m looking for help with Spring Boot, PostgreeSql<br><br>👨‍💻 All of my projects are available at anik-paul-dev<br><br>💬 Ask me about ML Research, Web and mobile App development.**<br><br>📫 How to reach me anikpaul.dev24@gmail.com<br><br>🌐 Visit My Personal Blog Website and explore to know about my experiences https://mynotebook-mu.vercel.app<br><br>⚡ Fun fact love traveling, enjoy literature with a cup of tea, find inspiration from movies!</p>
+- 📫 How to reach me **anikpaul.dev24@gmail.com**
+- 🌐 Visit My Personal Blog Website and explore to know about my experiences **https://mynotebook-mu.vercel.app**
 
-###
+- ⚡ Fun fact **love traveling, enjoy literature with a cup of tea, find inspiration from movies!**
 
 <h2 align="left">I code with</h2>
 
@@ -112,19 +113,42 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" />
+</p>
 
 ###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=anik-paul-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=16&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+<!---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-paul-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik-paul-dev&layout=compact" alt="anik-paul-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-paul-dev&show_icons=true&locale=en" alt="anik-paul-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-paul-dev&" alt="anik-paul-dev" /></p>
+--->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev&theme=dracula" alt="anik-paul-dev" /></a> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik-paul-dev" alt="anik-paul-dev" /></a> </p> -->
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
+
