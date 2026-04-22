@@ -10,22 +10,21 @@ Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent 
 
 <img align="right" alt="Coding" height="300" width="400" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover2.gif">
 
-- 🔭 I’m currently working on ** Research Assistant(ML)| Enhancing App/Web development skills.**
+- I’m currently working on ** Research Assistant(ML)| Enhancing App/Web development skills.**
 
-- 🌱 I’m currently learning **Spring Boot, Next.js, PostgreeSql**
+- Currently learning **Spring Boot, Next.js, PostgreeSql**
 
-- 👯 I’m looking to collaborate on **Web and mobile development projects.**
+- Looking to collaborate on **Web and mobile development projects.**
 
-- 🤝 I’m looking for help with **Spring Boot, PostgreeSql**
+- All of my projects are available at **https://github.com/anik-paul-dev/**
 
-- 👨‍💻 All of my projects are available at [anik-paul-dev](anik-paul-dev)
+- Ask me about ML Research, Web and mobile App development.**
 
-- 💬 Ask me about ML Research, Web and mobile App development.**
+- How to reach me **anikpaul.dev24@gmail.com**
 
-- 📫 How to reach me **anikpaul.dev24@gmail.com**
-- 🌐 Visit My Personal Blog Website and explore to know about my experiences **https://mynotebook-mu.vercel.app**
+- Visit My Personal Blog Website and explore to know about my experiences **https://mynotebook-mu.vercel.app**
 
-- ⚡ Fun fact **love traveling, enjoy literature with a cup of tea, find inspiration from movies!**
+- Fun fact **love traveling, enjoy literature with a cup of tea, find inspiration from movies!**
 
 <h2 align="left">I code with</h2>
 
