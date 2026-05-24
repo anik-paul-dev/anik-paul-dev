@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover.png" alt="MasterHead" style="width:100%; height:auto;"> </p>
+<p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/Anik_cover.png" alt="MasterHead" style="width:100%; height:auto;"> </p>
 
 <h1 align="center">Hi, I'm Anik😊</h1>
 <h3 align="center"> Research Assistant(ML) | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</h3>
