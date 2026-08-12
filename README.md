@@ -1,18 +1,16 @@
 <p align="center"><img src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/Anik_cover.png" alt="MasterHead" style="width:100%; height:auto;"> </p>
 
 <h1 align="center">Hi, I'm Anik😊</h1>
-<h3 align="center"> Research Assistant(ML) | Software Developer (App and Web) | Exploring Full-Stack | Tech Enthusiast</h3>
-<h6 align="left">I am currently looking for a job in Software Development field. Also, assisted postgraduate students and teachers with experiments, implementation, and analysis for thesis-related research. Over the past year, I have honed my Android app development skills through an internship at Stamasoft Technology and gained over 3 years of experience in web development through self-learning. I continue to expand my expertise in web and app development through Coursera and IBM courses to stay current with industry trends.
+<h3 align="center">Full-Stack Software Developer | Independent Researcher / Research Assistant | Tech Enthusiast.</h3>
+<h6 align="left">Full-Stack Software Developer currently working at Ukil Bari Limited, contributing to the development of scalable LegalTech web and mobile applications while taking on increasing technical ownership. Previously worked as a Full-Stack Software Developer at SA TECH & CONSULTANCY and as a Freelance Developer since 2023, independently delivering 16+ client projects using Laravel and the MERN stack. With over 3+ years of web development experience and 1.5+ years in Android app development, I continue to expand my expertise in modern software engineering. Alongside my professional work, I have served as a Research Assistant, supporting postgraduate research through implementation, experimentation, and analysis for thesis and journal publications. I actively enhance my skills through hands-on product development and continuous learning via IBM and Coursera.
 
-Ex-Intern at Stamasoft Technology | Freelance Web & App Developer | Independent Researcher / Self-Employed </h6>
+Ex-Intern at Stamasoft Technology | EX- SWD at SA Tech and Consultancy | Independent Researcher/ Research Assistant. </h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-paul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anik-paul-dev" /> </p>
 
 <img align="right" alt="Coding" height="300" width="400" src="https://github.com/anik-paul-dev/anik-paul-dev/blob/main/ani-git-cover2.gif">
 
-- I’m currently working on ** Research Assistant(ML)| Enhancing App/Web development skills.**
-
-- Currently learning **Spring Boot, Next.js, PostgreeSql**
+- I’m currently working on **Enhancing App/Web development | Research Assistant(ML) skills.**
 
 - Looking to collaborate on **Web and mobile development projects.**
 
